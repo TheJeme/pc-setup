@@ -1,0 +1,12 @@
+Google Chrome: https://www.google.com/chrome/
+Steam: https://store.steampowered.com/about/
+Discord: https://discord.com/download
+Autohotkey: https://www.autohotkey.com/
+VSCode: https://code.visualstudio.com/download
+Node.js: https://nodejs.org/en/
+Paint.net: https://www.dotpdn.com/downloads/pdn.html
+SpeedCrunch: https://heldercorreia.bitbucket.io/speedcrunch/
+qBittorrent: https://www.qbittorrent.org/download.php
+WinRAR: https://www.win-rar.com/download.html?&L=0
+ShareX: https://getsharex.com/
+SumatraPDF: https://www.sumatrapdfreader.org/download-free-pdf-viewer
