@@ -1,3 +1,12 @@
 [submodule "vscode-config"]
 	path = vscode-config
 	url = https://github.com/TheJeme/vscode-config
+[submodule "tetr.io-config"]
+	path = tetr.io-config
+	url = https://github.com/TheJeme/tetr.io-config
+[submodule "wasd.ahk"]
+	path = wasd.ahk
+	url = https://github.com/TheJeme/wasd.ahk
+[submodule "main.ahk"]
+	path = main.ahk
+	url = https://github.com/TheJeme/main.ahk
