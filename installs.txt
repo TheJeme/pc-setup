@@ -10,3 +10,6 @@ qBittorrent: https://www.qbittorrent.org/download.php
 WinRAR: https://www.win-rar.com/download.html?&L=0
 ShareX: https://getsharex.com/
 SumatraPDF: https://www.sumatrapdfreader.org/download-free-pdf-viewer
+GeForce Experience: https://www.nvidia.com/fi-fi/geforce/geforce-experience/
+Git: https://git-scm.com/download/win
+GitHub Desktop: https://desktop.github.com/
