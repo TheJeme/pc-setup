@@ -1,0 +1,15 @@
+start https://www.google.com/chrome/
+start https://store.steampowered.com/about/
+start https://discord.com/download
+start https://www.autohotkey.com/
+start https://code.visualstudio.com/download
+start https://nodejs.org/en/
+start https://www.dotpdn.com/downloads/pdn.html
+start https://heldercorreia.bitbucket.io/speedcrunch/
+start https://www.qbittorrent.org/download.php
+start https://www.win-rar.com/download.html?&L=0
+start https://getsharex.com/
+start https://www.sumatrapdfreader.org/download-free-pdf-viewer
+start https://www.nvidia.com/fi-fi/geforce/geforce-experience/
+start https://git-scm.com/download/win
+start https://desktop.github.com/
