@@ -1,0 +1,3 @@
+[submodule "vscode-config"]
+	path = vscode-config
+	url = https://github.com/TheJeme/vscode-config
